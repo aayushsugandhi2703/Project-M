@@ -1,1 +1,2 @@
-hi this is secured file which cannot be view by user until it knows about this file
+hi this is statics foleder file this is secured file which cannot be view by user until it knows about this file
+in tyemplate folder file we canm add templates ssuch as html
